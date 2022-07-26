@@ -416,10 +416,6 @@ text-align: center;}
 .footer2 p{
   font-weight: 300;
 }
-
-
-
-
 /*top버튼*/
 .fixed_box{
    width:40px;
@@ -429,6 +425,11 @@ text-align: center;}
    display: inline-block;
    z-index: 999999;
 }
+
+
+
+
+
 
 @media(max-width:1709px){
 	input[id="menuicon"]+label, .slidebar{
@@ -543,9 +544,7 @@ text-align: center;}
           width: 100%;
           margin-right: 0;
           margin: 10px 0;
-          
       }
-    
   }
   @media(max-width:752px){
    .notice{
@@ -558,7 +557,6 @@ text-align: center;}
       display: none;
    }
   }
-
   @media(max-width:502px){
    .small{
     display: block;
